@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Complex<int,float> const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBV?$Complex@HM@@@Z) referenced in function main
+C:\unversite files\Secoend Year\Data Structure\Template\x64\Debug\Template.exe : fatal error LNK1120: 1 unresolved externals

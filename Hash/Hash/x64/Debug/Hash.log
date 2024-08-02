@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\unversite files\Secoend Year\Data Structure\Hash\Hash\hash.h(76): warning C4715: 'Hash::remove': not all control paths return a value
+  Hash.vcxproj -> C:\unversite files\Secoend Year\Data Structure\Hash\x64\Debug\Hash.exe
